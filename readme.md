@@ -1,1 +1,1 @@
-Hello world
+Решение задач по Python
